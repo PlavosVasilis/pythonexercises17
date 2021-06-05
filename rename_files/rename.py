@@ -1,5 +1,5 @@
 import os
-# os.rename(r'1.txt',r'2.txt')
+# os.rename(r'files/1_old.txt',r'files/1.txt')
 
 path = 'files' + '/'
 files = os.listdir(path)
